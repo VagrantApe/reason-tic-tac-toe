@@ -1,0 +1,6 @@
+{
+  "reason.diagnostics.tools": [
+    "merlin",
+    "bsb"
+  ]
+}
